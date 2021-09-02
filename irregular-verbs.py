@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 """
-A trainer for English irregular verbs built with Qt.
+A simple trainer for English irregular verbs.
 """
 
 __author__ = "Tal Zana"
